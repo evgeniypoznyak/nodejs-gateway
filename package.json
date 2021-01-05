@@ -13,7 +13,7 @@
     "ts-node": "ts-node ./src/app.ts"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bcrypt": "^3.0.4",
     "config": "^3.0.1",
     "debug": "~2.6.9",
